@@ -1,5 +1,7 @@
 <p align="center">
-    <img style="border-radius:50%;" src="https://foruda.gitee.com/avatar/1699369775963451692/13673284_nekox41_1699369775.png!avatar128"/>
+    <!-- <img style="border-radius:50%;" src="https://foruda.gitee.com/avatar/1699369775963451692/13673284_nekox41_1699369775.png!avatar128"/> -->
+	<!-- <img src="my.svg"> -->
+	<img src="https://gitee.com/nekox41/school-net/raw/master/my.svg" width="128" height="128"/>
 </p>
 
 <div align="center">
