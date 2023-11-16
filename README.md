@@ -1,6 +1,23 @@
-<center>
-    <img class="avatar" style="border-radius:50%" src="https://foruda.gitee.com/avatar/1699369775963451692/13673284_nekox41_1699369775.png!avatar128"/>
-</center>
+<p align="center">
+    <img style="border-radius:50%;" src="https://foruda.gitee.com/avatar/1699369775963451692/13673284_nekox41_1699369775.png!avatar128"/>
+</p>
+
+<div align="center">
+
+# 校园网登录
+
+**❤仅供参考❤**
+
+<p align="center">
+	<a href="https://space.bilibili.com/100455457">
+		<img src="https://img.shields.io/badge/B%E7%AB%99-white?logo=bilibili">
+	</a>
+	<a href="https://qm.qq.com/cgi-bin/qm/qr?k=a1sMkSIXA_F2_6tDhuXdnD2u7ibinIcT&noverify=0">
+		<img src="https://img.shields.io/badge/QQ-%23339999?logo=Tencent%20QQ">
+	</a>
+	<img src="https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E8%BF%9B%E5%BA%A6-100%25-red">
+</p>
+</div>
 
 # 声明
 
